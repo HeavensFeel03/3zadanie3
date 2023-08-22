@@ -2,4 +2,4 @@
 22.08.2023
 ![Текст с описанием картинки][def]
 
-[def]: /images/picture.JPG
+[def]: /images/picture.jpg
